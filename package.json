@@ -1,0 +1,16 @@
+{
+  "name": "alexa-test-skill",
+  "version": "1.0.0",
+  "description": "Test skill for alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.5.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
